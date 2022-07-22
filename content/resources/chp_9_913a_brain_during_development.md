@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Image
 title: Visual Cortex in a Developing Brain
 uid: 8e1c4be7-8f5b-8f63-552e-007aa84ac70d
 ---
 Visualization of the visual cortex in a developing brain utilizing a florescent tag to genes that are active during this period. (Image by Prof. Elly Nedivi.)
-
