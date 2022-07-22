@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of study topics for which students are responsible
+  for the final exam.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: d27d3226-d6a0-afe1-559a-56012da0791d
 ---

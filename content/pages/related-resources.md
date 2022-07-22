@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section provides links to online references for additional resources
+  in the field of neuroanatomy. These range from professional societies that maintain
+  links to areas that any reader can explore in this field. Many of the linked sites
+  provide resources for further study, as well as downloadable resources that can
+  be used for classroom teaching.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 2f6e9130-19f5-9573-a009-a56462568f74
 ---
