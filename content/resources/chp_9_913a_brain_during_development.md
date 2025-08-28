@@ -3,7 +3,7 @@ content_type: resource
 description: Visualization of the visual cortex in a developing brain utilizing a
   florescent tag to genes that are active during this period. (Image by Prof. Elly
   Nedivi.)
-file: /courses/9-913-a-intensive-neuroanatomy-january-iap-2002/8e1c4be78f5b8f63552e007aa84ac70d_chp_9_913a_brain_during_development.tif
+file: /ol-ocw-studio-app/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/8e1c4be78f5b8f63552e007aa84ac70d_chp_9_913a_brain_during_development.tif
 file_size: 1771468
 file_type: image/tiff
 image_metadata:
